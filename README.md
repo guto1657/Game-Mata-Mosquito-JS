@@ -1,11 +1,16 @@
-# Game-Mata-Mosquito-JS
+<h1 align="center">
+🦟 Mini Game Mata Mosquito. 
+</h1>
 
-this mini game was made to practice my programming logic using Vanilla JavaScript.
+<h4 align="center">
+Mini Game que consiste em clicar em todos os mosquitos antes que o tempo acabe. se você clicar em todos eles sem perder os três corações você ganha.  
+</h4>
 
-the game consist on clicking on all the mosquitoes before the time ends. if you click in all of them without losing your three hearts you win, if you lose all your hearts you lose.
+## 🛠 Tecnologias utilizadas
+Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+- Visual Studio Code (Editor de código);
+- HTML5;
+- CSS3;
+- JavaScript;
 
-*****************
-
-Esse mini game foi feito para praticar minha lógica de programação usando JavaScript Puro.
-
-O jogo consiste em clicar em todos os mosquitos antes que o tempo acabe, se você clicar em todos eles sem perder os seus três corações você ganha, se você perder todos eles você perde.
+---
